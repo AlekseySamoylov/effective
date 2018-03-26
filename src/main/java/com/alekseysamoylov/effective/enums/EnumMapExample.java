@@ -24,6 +24,7 @@ public class EnumMapExample {
         private final Phase to;
 
         Transition(Phase from, Phase to) {
+            var aasdfa = "dsafa";
             this.from = from;
             this.to = to;
         }
